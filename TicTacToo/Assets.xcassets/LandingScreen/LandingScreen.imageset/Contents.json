@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "model-paint-fiction-exposure.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "model-paint-fiction-exposure@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "model-paint-fiction-exposure@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
